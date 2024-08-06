@@ -46,5 +46,6 @@ SVM: This model is more complex and can handle large feature spaces well. It ten
 
 
 Conclusion
+
 From this project , Developing machine learning models for emotion classification in text involves several critical steps. 
 Proper preprocessing ensures that the text data is clean and relevant, which enhances the feature extraction process. Feature extraction using CountVectorizer or TfidfVectorizer converts text into numerical data, making it suitable for model training. Both Naive Bayes and SVM are powerful models for this task, with their suitability depending on the dataset characteristics and specific requirements of the task. Evaluating these models using metrics like accuracy and F1-score helps in understanding their performance and selecting the best model for deployment.
